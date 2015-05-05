@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\LittleLeagueScoreKeeper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="F:\LittleLeagueScoreKeeper\app\build\intermediates\pre-dexed\debug\classes-f0c5d9e031899f01d1c05eaabb4dbfe5569d4378.jar" />
+    </item>
+    <item
+        jar="F:\LittleLeagueScoreKeeper\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="F:\LittleLeagueScoreKeeper\app\build\intermediates\pre-dexed\debug\classes-998acc2bcdc6bfc977399d6deda136f081541419.jar" />
+    </item>
+    <item
+        jar="F:\LittleLeagueScoreKeeper\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="F:\LittleLeagueScoreKeeper\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-bdeb371d046f8a7172df54430bee3c14a246cd9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Zudakas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="F:\LittleLeagueScoreKeeper\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-6ee1ec65f8f77dde9db2fb339ac98b1692f9187e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Little League Score Keeper</string>
+
+    <string name="runsbutton">Runs</string>
+    <string name="outsbutton">Outs</string>
+    <string name="foulsbutton">Fouls</string>
+    <string name="strikesbutton">Strikes</string>
+    <string name="ballsbutton">Balls</string>
+
+    <string name="zerotext">0</string>
+
+    <string name="hometeam">Home Team</string>
+    <string name="awayteam">Away Team</string>
+    <string name="currentteam">Click Runs!</string>
+
+    <string name="homescore">0</string>
+    <string name="awayscore">0</string>
+
+    <string name="quitApp">Quit?</string>
+</resources>
